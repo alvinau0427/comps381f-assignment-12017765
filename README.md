@@ -1,20 +1,33 @@
 # COMPS831F - 2019 Take Home Assignment
-This assignment replaces the final exam.  Please read submission instructions below carefully.
+> **Important:** This assignment replaces the final examination. Please read and follow the submission instructions carefully to ensure your work is graded.
+
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) &nbsp;
+[![EJS](https://img.shields.io/badge/EJS-6DA55F?logo=ejs&logoColor=white)](#) &nbsp;
+[![JavaScript](https://img.shields.io/badge/Javacript-F9AB00?logo=javascript&logoColor=white)](#) &nbsp;
 
 ## Submission Instructions
-1.	This is an individual assignment. You are expected to complete this assignment by yourself without any help from anyone.
-2.	If you have questions about this assignment, post them to Google Classroom. Do not send emails. 
-3.	Submit your work via Google Classroom on/before `09:00 AM` on `January 03, 2020`. 
-4.	Late submissions will not be accepted.
+| Requirement | Details |
+| :--- | :--- |
+| **Integrity** | This is an **individual assignment**. You are expected to complete it independently without external assistance. |
+| **Inquiries** | Please post all questions to **Google Classroom**. (Direct emails will not be processed). |
+| **Deadline** | **January 03, 2020** at **09:00 AM** |
+| **Late Policy** | Late submissions will **not** be accepted under any circumstances. |
 
-### Installing
+## Getting Started
+Follow the steps below to set up the environment and run the application locally.
+
+### 1. Installation
+Ensure you have [Node.js](https://nodejs.org/) installed, then execute:
 ```
 npm install
 ```
-### Running
+
+### 2. Running
 ```
 npm start
 ```
-### Testing
-1. http://localhost:8099/
-2. Go to https://comps381f-assignment-12017765.herokuapp.com/
+
+### 3.Testing
+```
+http://localhost:8099/
+```
